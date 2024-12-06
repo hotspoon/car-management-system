@@ -43,7 +43,7 @@ main {
 .forms-container,
 .booking-details {
   flex: 1;
-  min-width: 300px;
+  /* min-width: 300px; */
   background-color: #ffffff;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -184,7 +184,6 @@ button:disabled {
   height: auto !important;
 }
 
-/* Additional styles for better visual hierarchy and readability */
 .available {
   fill: #4caf50;
 }
